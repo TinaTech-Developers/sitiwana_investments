@@ -112,8 +112,8 @@ function Footer() {
               <FaXTwitter size={25} color="white" />
             </Link>
           </div>
-          <p>Mobile: +263 77 707 3400 | +263 77 791 1029 | +263 71 259 4937</p>
-          <p>Email: tawandavurawa@gmail.com</p>
+          <p>Mobile: +263 77 707 3400 | +263 77 791 0129 | +263 71 259 4937</p>
+          <p>Email: sitawainvest2ments@gmail.com</p>
         </div>
       </div>
       <hr className="w-[80%] bg-white mx-auto " />

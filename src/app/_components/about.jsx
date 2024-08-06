@@ -29,7 +29,7 @@ function About() {
           </h1>
           <p>
             {
-              "Unlock a world of entertainment and edutainment with [Your Company Name]'s premium satellite dish services. Enjoy top-tier movies, TV shows, live sports, and global news in stunning HD, along with an extensive range of educational channels featuring documentaries, interactive learning programs, and more. Our flexible packages cater to all interests and budgets, delivering reliable service and exceptional viewing quality. Transform your home entertainment experience—contact us today to explore our offerings and start your journey with endless content at your fingertips."
+              "Unlock a world of entertainment and edutainment with Sitawa Investments premium satellite dish services. Enjoy top-tier movies, TV shows, live sports, and global news in stunning HD, along with an extensive range of educational channels featuring documentaries, interactive learning programs, and more. Our flexible packages cater to all interests and budgets, delivering reliable service and exceptional viewing quality. Transform your home entertainment experience—contact us today to explore our offerings and start your journey with endless content at your fingertips."
             }
           </p>
         </motion.div>

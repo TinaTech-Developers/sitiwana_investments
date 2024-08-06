@@ -15,7 +15,9 @@ function Navbar() {
   return (
     <div className="shadow-lg w-full fixed top-0 left-0 z-50 bg-white">
       <div className="md:flex items-center justify-between bg- py-4  md:px-10 px-7 h-[5rem] border-b-">
-        <h1 className="text-3xl font-bold text-[#000818]">Sitiwana</h1>
+        <h1 className="text-3xl font-bold text-[#000818]">
+          Sitawa Investments
+        </h1>
         <div
           onClick={() => setOpen(!open)}
           className="text-3xl absolute right-8 top-6 cursor-pointer md:hidden"

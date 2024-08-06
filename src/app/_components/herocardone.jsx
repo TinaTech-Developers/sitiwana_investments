@@ -20,7 +20,9 @@ function HeroCard1({ text, text1, head }) {
           >
             <div className="flex items-center gap-2 my-4 justify-center">
               <div className="w-10 h-1 bg-blue-900"></div>
-              <h1 className="text-lg uppercase">Welcome To Sitiwana</h1>
+              <h1 className="text-lg uppercase">
+                Welcome To Sitawa Investiments
+              </h1>
               <div className="w-10 h-1 bg-blue-900"></div>
             </div>
             <div>

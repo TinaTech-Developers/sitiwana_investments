@@ -32,7 +32,7 @@ function Products() {
           }
         }
         transition={{ duration: 0.9 }}
-        className="flex flex-wrap items-center justify-center gap-10 p-10 "
+        className="flex flex-wrap items-center justify-center gap-10 md:gap-16 p-10 "
       >
         <ProductCard />
         <ProductCard1 />
@@ -61,7 +61,7 @@ function Products() {
           }
         }
         transition={{ duration: 0.9 }}
-        className="flex flex-wrap items-center justify-center gap-10 p-10 "
+        className="flex flex-wrap items-center justify-center gap-10 md:gap-16  p-10 "
       >
         <SatelliteProduct
           title={"HD Satellite Dishes"}
