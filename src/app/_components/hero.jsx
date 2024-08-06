@@ -25,9 +25,7 @@ export default function Hero() {
       >
         <SwiperSlide>
           <HeroCard
-            head={
-              "Premium Solar Systems for Superior Energy Efficiency and Performance"
-            }
+            head={"Premium Solar Systems for Top Energy Efficiency"}
             text={
               "Maximize your energy efficiency with our state-of-the-art solar systems."
             }
