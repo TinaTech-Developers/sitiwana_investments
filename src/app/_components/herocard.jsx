@@ -11,7 +11,7 @@ function HeroCard({ text, head }) {
   return (
     <div className="bg-scroll bg-[url('/solar.png')] bg-cover bg-no-repeat w-sreen  h-full">
       <div className="bg-scroll bg-black bg-opacity-70 h-[600px]">
-        <div className="px-6 translate-y-48 md:translate-y-64 translate-x-[17%] ">
+        <div className="px-6 translate-y-48 md:translate-y-64 md:translate-x-[17%] ">
           <motion.div
             initial={{ y: -100, opacity: 0 }}
             whileInView={{ y: 0, opacity: 1 }}

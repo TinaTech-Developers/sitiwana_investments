@@ -24,7 +24,7 @@ function About() {
             transition={{
               duration: 0.8,
             }}
-            className=""
+            className="p-10"
           >
             <Image
               src={"/solar1.jpg"}
@@ -47,7 +47,7 @@ function About() {
               " At Sitawa Investments, we are dedicated to empowering individuals and communities through innovative and sustainable solutions. Our mission is to provide top-notch products and services in the realms of renewable energy and satellite technology. We specialize in the sale and installation of high-quality solar systems, including a wide range of solar panels and solar batteries, designed to meet the unique needs of our clients. Additionally, we offer expert satellite services, encompassing the sale and installation of satellite decoders, as well as subscription management. With a commitment to excellence and customer satisfaction, Sitawa Investments is poised to be a leader in the industry, fostering a greener and more connected future for all."
             }
           </motion.h1>
-          <div className="w-20 md:w-[200px] mt-4">
+          <div className="w-[200px] mt-4">
             <FillButton name={"View More"} link={"/"} />
           </div>
         </div>

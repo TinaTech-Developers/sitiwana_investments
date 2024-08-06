@@ -24,7 +24,7 @@ function About() {
           }}
           className="col-span-1 p-4 px-10 m-4 bg-blue-950 border text-white "
         >
-          <h1 className="md:text-2xl font-semibold my-3">
+          <h1 className="text-2xl font-semibold my-3">
             Discover Top Entertainment & Edutainment with Satellite
           </h1>
           <p>
@@ -41,7 +41,7 @@ function About() {
           }}
           className="col-span-1 p-4 px-10 m-4 border border-blue-950 "
         >
-          <h1 className="md:text-2xl font-semibold my-3">
+          <h1 className="text-2xl font-semibold my-3">
             Harness the Power of the Sun
           </h1>
           <p>
