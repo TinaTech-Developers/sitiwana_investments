@@ -26,7 +26,7 @@ function HeroCard({ text, head }) {
             <div>
               <span className="w-10 h-56 bg-blue-900"></span>
             </div>
-            <h1 className="  text-white uppercase text-3xl md:text-4xl font-bold my-6 text-center">
+            <h1 className="  text-white uppercase text-3xl md:text-4xl font-bold  text-center">
               {head}
             </h1>
             <div className="text-xl  text-center font-light  text-white mt-4">
