@@ -9,6 +9,7 @@ function About() {
         <h1 className="text-2xl md:text-3xl font-bold my-4">
           Solar Energy & Satellite Technology
         </h1>
+
         <p className="">
           {
             "As we stand at a pivotal moment in history, it's crucial to unite our efforts in preserving the natural world that sustains us. By embracing innovative technologies and sustainable practices, we can make a significant impact. Two powerful tools in this mission are solar power and satellite technology."

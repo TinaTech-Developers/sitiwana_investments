@@ -1,6 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import { IoMdMenu, IoMdClose } from "react-icons/io";
+import Button from "./Button";
 
 function Navbar() {
   let links = [
@@ -16,8 +17,8 @@ function Navbar() {
     <div className="shadow-lg w-full fixed top-0 left-0 z-50 bg-white">
       <div className="md:flex items-center justify-between bg- py-4  md:px-10 px-7 h-[5rem] border-b-">
         <div className="flex flex-col items-start justify-start">
-          <h1 className="text-3xl font-bold text-[#000818]">Sitawa</h1>
-          <span className="font-bold text-[#000818] text-sm translate-y- uppercase">
+          <h1 className="text-3xl font-bold text-blue-950">Sitawa</h1>
+          <span className="font-bold text-blue-950 text-xs translate-y- uppercase">
             Investments
           </span>
         </div>
@@ -51,6 +52,9 @@ function Navbar() {
             </li>
           ))}
         </ul>
+        <div className="hidden md:grid">
+          <Button name={"Get Quote"} onClick={""} link={"/contact"} />
+        </div>
       </div>
     </div>
   );
