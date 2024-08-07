@@ -8,12 +8,12 @@ import ServiceCard from "./servicecard";
 
 function Service() {
   return (
-    <div>
+    <div className="bg-gray-100 py-6">
       <div className="flex flex-col items-center justify-center mt-10">
         <h1 className="text-3xl font-bold text-center mb-3">Our Services</h1>
       </div>
-      <div className="realtive grid grid-cols-1 md:grid-cols-5 gap-5 p-10 mx-auto ">
-        <div className=" bottom-0  md:w-64 h-96 w-80  border ml-11 md:ml-0 p-5">
+      <div className=" grid grid-cols-1 md:grid-cols-5  p-10 mx-auto ">
+        <div className=" col-span-1 bottom-0  md:w-64 h-96 w-80  border mx-auto mb-5 md:ml-0 p-5 bg-white">
           <h1 className="text-xl font-bold mb-">Get in touch</h1>
           <hr className="w-10 h-1 bg-blue-900" />
           <div className="grid grid-cols-4 mt-4 ">
@@ -53,11 +53,11 @@ function Service() {
         </div>
         <div className=" col-span-4 gap-10">
           <motion.div
-            initial={{ x: 0, scale: 0 }}
-            whileInView={{ x: 0, scale: 1 }}
-            transition={{
-              duration: 0.8,
-            }}
+            // initial={{ x: 0, scale: 0 }}
+            // whileInView={{ x: 0, scale: 1 }}
+            // transition={{
+            //   duration: 0.8,
+            // }}
             className="flex flex-wrap items-center justify-center gap-5 "
           >
             <ServiceCard

@@ -4,7 +4,7 @@ function Testimonial() {
   return (
     <div className="flex flex-col md:w-[60%] h-full p-4 md:px-32 items-center justify-center mx-auto gap-4">
       <p>
-        Working with Sitiwana Investments has been a game-changer for us. Their
+        Working with Sitawa Investments has been a game-changer for us. Their
         advanced satellite technology has transformed our connectivity, ensuring
         we stay connected seamlessly, no matter where we are. Highly recommended
         for their expertise and reliable solutions!

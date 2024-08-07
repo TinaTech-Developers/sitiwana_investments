@@ -3,6 +3,7 @@ import PagesHero from "../_components/pageshero";
 import About from "../_components/about";
 import Service from "../_components/service";
 import Testimonials from "../_components/testimonials";
+import Promotion from "../_components/promotion";
 
 function page() {
   return (
@@ -14,6 +15,7 @@ function page() {
       />
       <About />
       <Service />
+      <Promotion />
       <Testimonials />
     </div>
   );

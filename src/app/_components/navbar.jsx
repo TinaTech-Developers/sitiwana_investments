@@ -44,7 +44,7 @@ function Navbar() {
             <li key={link.name} className="md:ml-8 text-base md:my-0 my-4">
               <a
                 href={link.link}
-                className="text-[#000818]  hover:text-blue-400 duration-400"
+                className="text-[#000818]  hover:text-blue-900 duration-400"
               >
                 {link.name}
                 <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 h-0.5 bg-blue-950"></span>
