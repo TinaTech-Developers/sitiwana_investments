@@ -7,7 +7,7 @@ import emailjs from "@emailjs/browser";
 import PagesHero from "../_components/pageshero";
 import Promotion from "../_components/promotion";
 
-function page() {
+function Contact() {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
@@ -121,4 +121,4 @@ function page() {
   );
 }
 
-export default page;
+export default Contact;
