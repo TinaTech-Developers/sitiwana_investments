@@ -2,7 +2,7 @@ import React from "react";
 import PagesHero from "../_components/pageshero";
 import About from "../_components/aboutus";
 
-function About() {
+function Page() {
   return (
     <div>
       <PagesHero
@@ -15,4 +15,4 @@ function About() {
   );
 }
 
-export default About;
+export default Page;

@@ -5,7 +5,7 @@ import Service from "../_components/service";
 import Testimonials from "../_components/testimonials";
 import Promotion from "../_components/promotion";
 
-function Service() {
+function Page() {
   return (
     <div>
       <PagesHero
@@ -21,4 +21,4 @@ function Service() {
   );
 }
 
-export default Service;
+export default Page;
